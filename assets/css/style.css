@@ -85,6 +85,15 @@ footer {
     cursor: pointer;
   }
 
-.portfolio-thumb {
+.container {
+    position: relative;
+    display: inline-block;
     margin: 25px 40px 25px 0px;
-}
+  }
+  .bottom-center {
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+    background: #4aaaa5;
+    padding: 10px 78.5px;
+  }
