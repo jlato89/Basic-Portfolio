@@ -1,2 +1,2 @@
 # Basic-Portfolio
-My first Portfolio
+Vanderbilt Bootcamp -- Week 1 assignment
